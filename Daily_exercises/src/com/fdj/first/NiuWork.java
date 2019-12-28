@@ -1,15 +1,13 @@
-package com.fdj.First;
+package com.fdj.first;
 
 import java.math.BigInteger;
 import java.util.*;
 
 /**
- * @Classname niu_work
- * @Description TODO
- * @Date 19-12-27 下午4:31
- * @Created by xns
+ * @Author: xns
+ * @Date: 19-12-28 下午8:52
  */
-public class niu_work{
+public class NiuWork {
     public static void main(String[] args){
         Scanner in = new Scanner(System.in);
         long n,m;
